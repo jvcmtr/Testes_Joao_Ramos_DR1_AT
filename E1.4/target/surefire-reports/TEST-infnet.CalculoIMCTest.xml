@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="infnet.CalculoIMCTest" time="0.101" tests="3" errors="0" skipped="0" failures="3">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="infnet.CalculoIMCTest" time="0.086" tests="3" errors="0" skipped="0" failures="3">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="C:\Users\cicer\Documents\JV\Serio\INFNET\cleanCode\testes\AT\q14\target\test-classes;C:\Users\cicer\Documents\JV\Serio\INFNET\cleanCode\testes\AT\q14\target\classes;C:\Users\cicer\.m2\repository\net\jqwik\jqwik\1.9.2\jqwik-1.9.2.jar;C:\Users\cicer\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\cicer\.m2\repository\net\jqwik\jqwik-api\1.9.2\jqwik-api-1.9.2.jar;C:\Users\cicer\.m2\repository\net\jqwik\jqwik-web\1.9.2\jqwik-web-1.9.2.jar;C:\Users\cicer\.m2\repository\net\jqwik\jqwik-time\1.9.2\jqwik-time-1.9.2.jar;C:\Users\cicer\.m2\repository\net\jqwik\jqwik-engine\1.9.2\jqwik-engine-1.9.2.jar;C:\Users\cicer\.m2\repository\org\junit\platform\junit-platform-engine\1.11.3\junit-platform-engine-1.11.3.jar;C:\Users\cicer\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.2\junit-jupiter-api-5.9.2.jar;C:\Users\cicer\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\cicer\.m2\repository\org\junit\platform\junit-platform-commons\1.9.2\junit-platform-commons-1.9.2.jar;"/>
+    <property name="java.class.path" value="C:\Users\cicer\Documents\JV\Serio\INFNET\cleanCode\testes\AT\repositorio\E1.4\target\test-classes;C:\Users\cicer\Documents\JV\Serio\INFNET\cleanCode\testes\AT\repositorio\E1.4\target\classes;C:\Users\cicer\.m2\repository\net\jqwik\jqwik\1.9.2\jqwik-1.9.2.jar;C:\Users\cicer\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\cicer\.m2\repository\net\jqwik\jqwik-api\1.9.2\jqwik-api-1.9.2.jar;C:\Users\cicer\.m2\repository\net\jqwik\jqwik-web\1.9.2\jqwik-web-1.9.2.jar;C:\Users\cicer\.m2\repository\net\jqwik\jqwik-time\1.9.2\jqwik-time-1.9.2.jar;C:\Users\cicer\.m2\repository\net\jqwik\jqwik-engine\1.9.2\jqwik-engine-1.9.2.jar;C:\Users\cicer\.m2\repository\org\junit\platform\junit-platform-engine\1.11.3\junit-platform-engine-1.11.3.jar;C:\Users\cicer\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.2\junit-jupiter-api-5.9.2.jar;C:\Users\cicer\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\cicer\.m2\repository\org\junit\platform\junit-platform-commons\1.9.2\junit-platform-commons-1.9.2.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,9 +15,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="BR"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21\bin"/>
-    <property name="sun.java.command" value="C:\Users\cicer\AppData\Local\Temp\surefire17922875400020630934\surefirebooter-20250402190333827_3.jar C:\Users\cicer\AppData\Local\Temp\surefire17922875400020630934 2025-04-02T19-03-33_609-jvmRun1 surefire-20250402190333827_1tmp surefire_0-20250402190333827_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\cicer\AppData\Local\Temp\surefire12793862803082969012\surefirebooter-20250402191342778_3.jar C:\Users\cicer\AppData\Local\Temp\surefire12793862803082969012 2025-04-02T19-13-42_597-jvmRun1 surefire-20250402191342778_1tmp surefire_0-20250402191342778_2tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="C:\Users\cicer\Documents\JV\Serio\INFNET\cleanCode\testes\AT\q14\target\test-classes;C:\Users\cicer\Documents\JV\Serio\INFNET\cleanCode\testes\AT\q14\target\classes;C:\Users\cicer\.m2\repository\net\jqwik\jqwik\1.9.2\jqwik-1.9.2.jar;C:\Users\cicer\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\cicer\.m2\repository\net\jqwik\jqwik-api\1.9.2\jqwik-api-1.9.2.jar;C:\Users\cicer\.m2\repository\net\jqwik\jqwik-web\1.9.2\jqwik-web-1.9.2.jar;C:\Users\cicer\.m2\repository\net\jqwik\jqwik-time\1.9.2\jqwik-time-1.9.2.jar;C:\Users\cicer\.m2\repository\net\jqwik\jqwik-engine\1.9.2\jqwik-engine-1.9.2.jar;C:\Users\cicer\.m2\repository\org\junit\platform\junit-platform-engine\1.11.3\junit-platform-engine-1.11.3.jar;C:\Users\cicer\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.2\junit-jupiter-api-5.9.2.jar;C:\Users\cicer\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\cicer\.m2\repository\org\junit\platform\junit-platform-commons\1.9.2\junit-platform-commons-1.9.2.jar;"/>
+    <property name="surefire.test.class.path" value="C:\Users\cicer\Documents\JV\Serio\INFNET\cleanCode\testes\AT\repositorio\E1.4\target\test-classes;C:\Users\cicer\Documents\JV\Serio\INFNET\cleanCode\testes\AT\repositorio\E1.4\target\classes;C:\Users\cicer\.m2\repository\net\jqwik\jqwik\1.9.2\jqwik-1.9.2.jar;C:\Users\cicer\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\cicer\.m2\repository\net\jqwik\jqwik-api\1.9.2\jqwik-api-1.9.2.jar;C:\Users\cicer\.m2\repository\net\jqwik\jqwik-web\1.9.2\jqwik-web-1.9.2.jar;C:\Users\cicer\.m2\repository\net\jqwik\jqwik-time\1.9.2\jqwik-time-1.9.2.jar;C:\Users\cicer\.m2\repository\net\jqwik\jqwik-engine\1.9.2\jqwik-engine-1.9.2.jar;C:\Users\cicer\.m2\repository\org\junit\platform\junit-platform-engine\1.11.3\junit-platform-engine-1.11.3.jar;C:\Users\cicer\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.2\junit-jupiter-api-5.9.2.jar;C:\Users\cicer\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\cicer\.m2\repository\org\junit\platform\junit-platform-commons\1.9.2\junit-platform-commons-1.9.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\cicer"/>
     <property name="user.language" value="pt"/>
@@ -25,12 +25,12 @@
     <property name="java.version.date" value="2025-01-21"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-21"/>
     <property name="file.separator" value="\"/>
-    <property name="basedir" value="C:\Users\cicer\Documents\JV\Serio\INFNET\cleanCode\testes\AT\q14"/>
+    <property name="basedir" value="C:\Users\cicer\Documents\JV\Serio\INFNET\cleanCode\testes\AT\repositorio\E1.4"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\cicer\AppData\Local\Temp\surefire17922875400020630934\surefirebooter-20250402190333827_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\cicer\AppData\Local\Temp\surefire12793862803082969012\surefirebooter-20250402191342778_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.6+8-LTS-188"/>
@@ -45,7 +45,7 @@
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\cicer\AppData\Local\Temp\"/>
     <property name="java.version" value="21.0.6"/>
-    <property name="user.dir" value="C:\Users\cicer\Documents\JV\Serio\INFNET\cleanCode\testes\AT\q14"/>
+    <property name="user.dir" value="C:\Users\cicer\Documents\JV\Serio\INFNET\cleanCode\testes\AT\repositorio\E1.4"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
@@ -58,13 +58,13 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="testClassificarIMC" classname="infnet.CalculoIMCTest" time="0.052">
+  <testcase name="testClassificarIMC" classname="infnet.CalculoIMCTest" time="0.043">
     <failure message="Expected java.security.InvalidParameterException to be thrown, but nothing was thrown." type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: Expected java.security.InvalidParameterException to be thrown, but nothing was thrown.
 	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:152)
 	at org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:73)
 	at org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:35)
 	at org.junit.jupiter.api.Assertions.assertThrows(Assertions.java:3083)
-	at infnet.CalculoIMCTest.testClassificarIMC(CalculoIMCTest.java:52)
+	at infnet.CalculoIMCTest.testClassificarIMC(CalculoIMCTest.java:51)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
 	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:727)
@@ -136,7 +136,7 @@
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
 ]]></failure>
   </testcase>
-  <testcase name="testIndiceDeMassa" classname="infnet.CalculoIMCTest" time="0.009">
+  <testcase name="testIndiceDeMassa" classname="infnet.CalculoIMCTest" time="0.016">
     <failure message="Expected java.security.InvalidParameterException to be thrown, but nothing was thrown." type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: Expected java.security.InvalidParameterException to be thrown, but nothing was thrown.
 	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:152)
 	at org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:73)
@@ -215,14 +215,12 @@
 ]]></failure>
   </testcase>
   <testcase name="testClassificacao" classname="infnet.CalculoIMCTest" time="0.002">
-    <failure message="expected: &lt;Obesidade Grau II&gt; but was: &lt;Obesidade Grau III&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Obesidade Grau II> but was: <Obesidade Grau III>
-	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)
-	at org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:132)
-	at org.junit.jupiter.api.AssertEquals.failNotEqual(AssertEquals.java:197)
-	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:182)
-	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:177)
-	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:1142)
-	at infnet.CalculoIMCTest.testClassificacao(CalculoIMCTest.java:39)
+    <failure message="Expected java.security.InvalidParameterException to be thrown, but nothing was thrown." type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: Expected java.security.InvalidParameterException to be thrown, but nothing was thrown.
+	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:152)
+	at org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:73)
+	at org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:35)
+	at org.junit.jupiter.api.Assertions.assertThrows(Assertions.java:3083)
+	at infnet.CalculoIMCTest.testClassificacao(CalculoIMCTest.java:43)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
 	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:727)
